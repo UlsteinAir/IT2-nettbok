@@ -1,13 +1,35 @@
 # Ukeplaner
 
+## Uke 22 - Assosiasjoner i objektorientert programmering
+
+- Kalenderuke: 9
+- IT-uke: 22
+- Ukens fagstoff: [Assosiasjoner](/apputvikling/assosiasjon)
+- Tema: Apputvikling
+- Ukens oppgaver: [3.8 - 3.12](/apputvikling/oppgaver)
+
+## Uke 21 - Data som objekter
+
+- Kalenderuke: 7
+- IT-uke: 21
+- Ukens fagstoff: [Stortinget-fantasy](/apputvikling/stortinget-fantasy), [brukergrensesnitt](/apputvikling/brukergrensesnitt) og [data som objekter](/apputvikling/data-som-objekter)
+- Tema: Apputvikling
+- Ukens oppgaver: [3.1 - 3.7](/apputvikling/oppgaver)
+
+## Uke 20 - Prøve i databehandling og algoritmer
+
+- Kalenderuke: 6
+- IT-uke: 20
+- Tema: [Databehandling og algoritmer](/databehandling-og-algoritmer)
+  
 ## Uke 19 - Presentere data
 
 - Kalenderuke: 5
 - IT-uke: 19
-- Ukens fagstoff: [Plotting](/databehandling-og-algoritmer/lokker-lister-og-ordboker) og Flask (kommer..)
+- Ukens fagstoff: [Plotting](/databehandling-og-algoritmer/plotting) og Flask (kommer..)
 - Tema: [Databehandling og algoritmer](/databehandling-og-algoritmer)
 - Ukens oppgaver:
-  - kommer
+  - [Øveprøve](/databehandling-og-algoritmer/oveprove)
 
 ## Uke 18 - Løkker og større oppgaver
 
